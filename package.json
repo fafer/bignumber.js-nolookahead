@@ -4,7 +4,7 @@
     "email": "M8ch88l@gmail.com"
   },
   "bugs": {
-    "url": "https://github.com/MikeMcl/bignumber.js/issues"
+    "url": "https://github.com/fafer/bignumber.js/issues"
   },
   "dependencies": {},
   "description": "A library for arbitrary-precision decimal and non-decimal arithmetic",
@@ -12,7 +12,7 @@
   "engines": {
     "node": "*"
   },
-  "homepage": "https://github.com/MikeMcl/bignumber.js#readme",
+  "homepage": "https://github.com/fafer/bignumber.js#readme",
   "keywords": [
     "arbitrary",
     "precision",
